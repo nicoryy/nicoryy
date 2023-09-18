@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be29ec&size=35&center=true&vCenter=true&width=1000&lines=I'm+Pedro+Nicory;19+years+old+from+Brazil;Graduating+Mechatronics+Engineering+:%29)](https://git.io/typing-svg)
 
-[![L&L](https://img.shields.io/badge/Developing%20-L&L_Assessoria_e_Serviços-1f425f.svg)](https:llassessoriaeservicos.com.br)
+[![L&L](https://img.shields.io/badge/Developing%20-L&L_Assessoria_e_Serviços-1f425f.svg)](https://llassessoriaeservicos.com.br)
 
 <div display='inline-block'>
   <img alt="NicoryStats" src="https://github-readme-stats.vercel.app/api?username=nicoryy&show_icons=true&theme=radical"/>
