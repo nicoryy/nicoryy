@@ -11,8 +11,8 @@
 [![L&L](https://img.shields.io/badge/Developing%20-L&L_Assessoria_e_Serviços-1f425f.svg)](https://llassessoriaeservicos.com.br)
 
 <div display='inline-block'>
-  <img alt="NicoryStats" height='180px' src="https://github-readme-stats.vercel.app/api?username=nicoryy&show_icons=true&theme=radical"/>
-  <img alt="NicoryLangs" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoryy&layout=compact&theme=radical"/>  
+  <img alt="NicoryStats" height='150px' src="https://github-readme-stats.vercel.app/api?username=nicoryy&show_icons=true&theme=radical"/>
+  <img alt="NicoryLangs" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoryy&layout=compact&theme=radical"/>  
 </div>
 <br/>
 <div align='center'>
