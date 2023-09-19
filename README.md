@@ -28,7 +28,7 @@
 </div>
 
 ##
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be29ec&size=24&center=true&vCenter=true&width=1000&lines=Focusing+at+the+moment)(https://github.com/nicoryy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be29ec&size=24&center=true&vCenter=true&width=1000&lines=Focusing+at+the+moment)](https://github.com/nicoryy)
 <div align='center'>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'><br/>
   <img src='https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white'><br/>
