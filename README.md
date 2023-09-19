@@ -4,13 +4,13 @@
 
 ##
 <div align='center'>
+  <a href="https://llassessoriaeservicos.com.br"><img src="https://img.shields.io/badge/L%26L_--_Assessoria_e_servi%C3%A7os-Projeto-738f3f" alt="L&L - Assessoria e serviços - Projeto"></a>
   <p>🔭 I'm currently working on a businiess website with React</p> 
   <p>🌱 I’m currently learning <b>Electron Js, React, React Native Expo</b></p> 
 </div>
 
-[![L&L](https://img.shields.io/badge/Developing%20-L&L_Assessoria_e_Serviços-1f425f.svg)](https://llassessoriaeservicos.com.br)
 
-<div display='inline-block'>
+<div align='center'>
   <img alt="NicoryStats" height='150px' src="https://github-readme-stats.vercel.app/api?username=nicoryy&show_icons=true&theme=radical"/>
   <img alt="NicoryLangs" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoryy&layout=compact&theme=radical"/>  
 </div>
@@ -28,7 +28,7 @@
 </div>
 
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be29ec&size=24&center=true&vCenter=true&width=1000&lines=Focusing+at+the+moment)](https://github.com/nicoryy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be29ec&size=24&center=true&repeat=false&vCenter=true&width=1000&lines=Focusing+at+the+moment!)](https://github.com/nicoryy)
 <div align='center'>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'><br/>
   <img src='https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white'><br/>
