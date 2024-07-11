@@ -7,17 +7,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Eu sou Pedro Nicory 🖐, desenvolvedor full stack com experiência em diversas tecnologias web e mobile. Atualmente, estou focado em aprimorar minhas habilidades em Next.js, uma poderosa estrutura para React, que facilita a construção de aplicações web de alto desempenho e SEO amigáveis. Além disso, estou desenvolvendo projetos em React Native, criando aplicações móveis multiplataforma com eficiência e alta qualidade.
+Hello! I'm Pedro Nicory 🖐, full stack developer with experience in various web and mobile technologies. Currently, I'm focused on honing my skills in Next.js, a powerful framework for React that makes it easy to build high-performance, SEO-friendly web applications. Additionally, I am developing projects in React Native,
+creating multiplatform mobile applications with efficiency and high quality.
 </p>
 
 
-🦄 Linguagens: `typescript`, `javascript`, `css`, `python`, `reactnative`, `vite`, `next`, `Express`
+🦄 Languages: `typescript`, `javascript`, `css`, `python`, `reactnative`, `vite`, `next`, `Express`
 
-💼 Ferramentas: `vscode`, `postman`, `vscode`, `git`, `github`, `webpack`
+💼 Tools: `vscode`, `postman`, `vscode`, `git`, `github`, `webpack`
 
 
 <p align="left">
-  💌 Se você tiver interesse em discutir ideias, projetos ou qualquer coisa relacionada ao desenvolvimento web e mobile, sinta-se à vontade para entrar em contato: ⤵️
+  💌 If you are interested in discussing ideas, projects or anything related to web and mobile development, feel free to get in touch: ⤵️
 </p>
 
 <p align="left">
